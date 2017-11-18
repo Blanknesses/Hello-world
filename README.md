@@ -1,2 +1,6 @@
 # Hello-world
-Just another respository
+
+Hi,humans!
+
+Blanknesses here, I like js and web-development. 
+Nice to meet you!
